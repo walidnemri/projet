@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Projet Git</h1>
+    <p>etude du versionning avec git</p>
 </body>
 </html>
